@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 💻 Check out my website: https://razfriman.com
-- 🌱 I’m currently learning [Blazor](https://blazor.net/)
-- 🔭 I’m currently working on 🎨Templates at [Canva](https://canva.com)
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=razfriman&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/razfriman)  
+- 💻 Check out my website: https://raz.friman.au
+- 💃 I’m currently building [BootStepper](https://bootstepper.com/)
+- 💼 I’m currently working on 🎨 Generative Design AI at [Canva](https://canva.com)
